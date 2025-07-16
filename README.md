@@ -1,5 +1,6 @@
 # Project 2 Crowdfunding_ETL: Patrick Zhou and Natasha Elliott
-
+Project 2
+  
 **This mini project was divided into the following subsections:**
 - Create the Category and Subcategory DataFrames
 - Create the Campaign DataFrame
