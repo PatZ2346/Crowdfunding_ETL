@@ -1,4 +1,4 @@
-# Project 2 Crowdfunding_ETL: Patrick Zhou and Natasha Elliott
+# Crowdfunding_ETL: Patrick Zhou and Natasha Elliott
 Project 2
   
 **This mini project was divided into the following subsections:**
